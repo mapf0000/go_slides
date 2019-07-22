@@ -3,5 +3,3 @@ Mbil Golang Examples
 * Hello World
 .play code/hello_world.go
 
-** Hello Mbil
-.play code/hello_mbil.go
